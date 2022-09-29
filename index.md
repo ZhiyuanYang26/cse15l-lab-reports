@@ -2,4 +2,6 @@
 
 _How can we_ 
 
-[Lab Report 1](https://ZhiyuanYang26.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+[Lab Report demo](https://ZhiyuanYang26.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+
+[Lab Report week 1](https://ZhiyuanYang26.github.io/cse15l-lab-reports/lab1.html)
