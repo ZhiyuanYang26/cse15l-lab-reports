@@ -41,11 +41,12 @@ Junit Test
 
 Failure inducing input:
 The point of the input is to give two inputs with different content and length, to see if the function can handle this condition successfully
- ![image](https://user-images.githubusercontent.com/77312914/198731182-0b514a2e-b6d7-4d2b-a676-3e478f975c58.png)
+
+![image](https://user-images.githubusercontent.com/77312914/198731182-0b514a2e-b6d7-4d2b-a676-3e478f975c58.png)
 
 Symptoms:
 The error message tells us that we ran into a out of memory error, which means that there could potentially have an infinite loop in the code.
- ![image](https://user-images.githubusercontent.com/77312914/198731198-2f038ee3-f308-430a-baec-eecac869604d.png)
+![image](https://user-images.githubusercontent.com/77312914/198731198-2f038ee3-f308-430a-baec-eecac869604d.png)
 
 Bug:
 The part in red underline needs to be fixed, it should changed to
