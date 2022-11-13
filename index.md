@@ -9,3 +9,5 @@ _How can we_
 [Lab Report week 3](https://ZhiyuanYang26.github.io/cse15l-lab-reports/lab2.html)
 
 [Lab Report week 5](https://ZhiyuanYang26.github.io/cse15l-lab-reports/lab3.html)
+
+[Lab Report week 7](https://ZhiyuanYang26.github.io/cse15l-lab-reports/wk7.html)
