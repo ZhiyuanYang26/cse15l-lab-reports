@@ -12,7 +12,7 @@ type /start<Enter> to find the "start" and locate cursor on it
 ![Image](l1.png)
     
 if image not showing, view at
-https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l1.png
+    https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l1.png
     
 
 step 2
@@ -20,21 +20,21 @@ type ce base to delete the "start" and change it to "base"
 ![Image](l2.png)
     
 if image not showing, view at
-https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l2.png
+    https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l2.png
 
 step 3
 press <Esc>:w to exit to normal mode and save the change
 ![Image](l3.png)
     
 if image not showing, view at
-https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l3.png
+    https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l3.png
 
 step 4
 press <Enter> to excute the save and see the results saying that "saved successfully"
 ![Image](l4.png)
     
 if image not showing, view at
-https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l4.png
+    https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l4.png
     
 step 5
 Since there are 4 occurences of the word "start", we need to repeat process above 4 times.
