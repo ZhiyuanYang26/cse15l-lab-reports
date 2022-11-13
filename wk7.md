@@ -11,8 +11,8 @@ step 1
 type /start<Enter> to find the "start" and locate cursor on it
 ![Image](l1.png)
     
-    if image not showing, view at
-    https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l1.png
+if image not showing, view at
+https://github.com/ZhiyuanYang26/cse15l-lab-reports/blob/646d67e9f54ea9c13479b29ac588a29d162d5e19/l1.png
     
 
 step 2
