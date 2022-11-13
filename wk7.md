@@ -9,9 +9,6 @@
 
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
-    
-https://user-images.githubusercontent.com/77312914/201505523-6299b620-15f8-47e4-adcd-ab0a49db1282.png
-    
 
 ![image](https://user-images.githubusercontent.com/77312914/201505523-6299b620-15f8-47e4-adcd-ab0a49db1282.png)
 
@@ -22,17 +19,12 @@ type ce base to delete the "start" and change it to "base"
 step 3
 press <Esc>:w to exit to normal mode and save the change
 ![image](https://user-images.githubusercontent.com/77312914/201505595-6a96be32-f4b2-4ba4-89e4-b35719f9b1c3.png)
-    
-https://user-images.githubusercontent.com/77312914/201505595-6a96be32-f4b2-4ba4-89e4-b35719f9b1c3.png
-    
 
 step 4
 press <Enter> to excute the save and see the results saying that "saved successfully"
 ![image](https://user-images.githubusercontent.com/77312914/201505600-186ee911-9b1d-4b8e-a3da-56528e7f7659.png)
 
-https://user-images.githubusercontent.com/77312914/201505600-186ee911-9b1d-4b8e-a3da-56528e7f7659.png
     
-
 step 5
 Since there are 4 occurences of the word "start", we need to repeat process above 4 times.
 
