@@ -10,12 +10,10 @@
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
 ![image](https://user-images.githubusercontent.com/77312914/201505523-6299b620-15f8-47e4-adcd-ab0a49db1282.png)
-![image](https://user-images.githubusercontent.com/77312914/201508376-208dc3b2-307b-4492-b65f-bfead0474ccb.png)
-
 
 step 2
 type ce base to delete the "start" and change it to "base"
-![image](https://user-images.githubusercontent.com/77312914/201505559-84712b5b-e5ba-4139-a109-498c30afd45e.png)
+<img src="/l1.png">
 
 step 3
 press <Esc>:w to exit to normal mode and save the change
