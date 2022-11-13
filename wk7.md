@@ -38,7 +38,9 @@ Method 2:
 It took me about 1min 46s to do it. The difficulty is that I am not very familliar with using vim on the server.
 
 *Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?*
-The second one is faster but I would choose the first method since I am get used to it and more familliar with the local commands.
+
+    The second one is faster but I would choose the first method since I am get used to it and more familliar with the local commands.
 
 *What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)*
-If there are numbers of projects need similar editting, I might prefer the second method, since scp so many times would be annoying. 
+
+    If there are numbers of projects need similar editting, I might prefer the second method, since scp so many times would be annoying. 
