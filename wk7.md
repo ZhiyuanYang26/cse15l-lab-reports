@@ -9,6 +9,8 @@
 
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
+    
+https://user-images.githubusercontent.com/77312914/201505523-6299b620-15f8-47e4-adcd-ab0a49db1282.png
 
 ![image](https://user-images.githubusercontent.com/77312914/201505523-6299b620-15f8-47e4-adcd-ab0a49db1282.png)
 
