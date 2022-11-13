@@ -17,7 +17,7 @@ type ce base to delete the "start" and change it to "base"
 
 step 3
 press <Esc>:w to exit to normal mode and save the change
-<img src="/l3.png">
+![Image](l3.png)
 
 step 4
 press <Enter> to excute the save and see the results saying that "saved successfully"
