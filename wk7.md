@@ -10,6 +10,9 @@
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
 ![Image](l1.png)
+    
+
+    
 
 step 2
 type ce base to delete the "start" and change it to "base"
