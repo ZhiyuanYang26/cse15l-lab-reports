@@ -1,10 +1,10 @@
 
 *Part 1*
-    Vim TestDocSearch.java
-    /start<Enter>cebase<Esc>:w<Enter>
-    /start<Enter>cebase<Esc>:w<Enter>
-    /start<Enter>cebase<Esc>:w<Enter>
-    /start<Enter>cebase<Esc>:w<Enter>
+        Vim TestDocSearch.java
+        /start<Enter>cebase<Esc>:w<Enter>
+        /start<Enter>cebase<Esc>:w<Enter>
+        /start<Enter>cebase<Esc>:w<Enter>
+        /start<Enter>cebase<Esc>:w<Enter>
 
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
