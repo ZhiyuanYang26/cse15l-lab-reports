@@ -9,19 +9,19 @@
 
 step 1
 type /start<Enter> to find the "start" and locate cursor on it
-<img src="/l1.png">
+![Image](l1.png)
 
 step 2
 type ce base to delete the "start" and change it to "base"
-<img src="/l2.png">
+![Image](l2.png)
 
 step 3
 press <Esc>:w to exit to normal mode and save the change
-![Image](/l3.png)
+![Image](l3.png)
 
 step 4
 press <Enter> to excute the save and see the results saying that "saved successfully"
-<img src="/l4.png">
+![Image](l4.png)
     
 step 5
 Since there are 4 occurences of the word "start", we need to repeat process above 4 times.
