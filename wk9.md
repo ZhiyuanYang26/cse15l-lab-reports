@@ -36,7 +36,7 @@ score: 6
 
 The method of correct version
 score: 10
-![image](https://user-images.githubusercontent.com/77312914/204197529-555f5111-8d57-4ea7-9a05-aeb618e24378.png)
+![image](https://user-images.githubusercontent.com/77312914/204199565-3e57dd6e-b54a-4333-9294-e5fec68b1f75.png)
 
 The method with srong filename
 ![image](https://user-images.githubusercontent.com/77312914/204197831-abba9ecc-5f71-4244-9fad-3d2d904271a5.png)
@@ -46,13 +46,13 @@ Part 3
 ![image](https://user-images.githubusercontent.com/77312914/204198650-33f45ac5-fce4-459e-8f71-f80b3183065d.png)
 
 When we run "The method with srong filename":
-
-Commands from line 1 to 7:
-standard output and standard error: None
-return code: 0
-
-if statement in line 9:
-conditon is true, because the input filename is not in the directory
-
-therefore it runs line 10, prints the "filename not found"
-then runs line 11 and 12, exit it and stop running, hence lines below are not run
+  
+Commands from line 1 to 7:  
+standard output and standard error: None  
+return code: 0  
+  
+if statement in line 9:  
+conditon is true, because the input filename is not in the directory  
+  
+therefore it runs line 10, prints the "filename not found"  
+then runs line 11 and 12, exit it and stop running, hence lines below are not run  
